@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "免单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}
