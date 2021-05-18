@@ -25,7 +25,15 @@
 			}
 
 		}
-	],
+	    ,{
+            "path" : "pages/wode/wode",
+            "style" : {
+				"navigationStyle":"custom",
+				"navigationBarTitleText": "免单",
+				"enablePullDownRefresh": false
+			}
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
